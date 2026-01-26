@@ -3,7 +3,7 @@
 </div>
 
 # OceanData AI Platform
-<img width="1037" height="512" alt="ocean" src="https://github.com/user-attachments/assets/e6bbcff1-c3a9-4a0f-bcd1-8700bb5a5c55" />
+
 
 ## Description
 
@@ -12,7 +12,7 @@ OceanData AI Platform is an AI-driven initiative aimed at building a unified sys
 This project is **currently under active development**. The core idea, architecture, and direction are defined, but **a significant amount of technical work is still pending**, including data pipelines, AI model implementation, optimization, and deployment.
 
 ---
-
+<img width="1037" height="512" alt="ocean" src="https://github.com/user-attachments/assets/e6bbcff1-c3a9-4a0f-bcd1-8700bb5a5c55" />
 
 ## Demo Video 🎥
 This video walks through the concept, architecture, and planned implementation of the platform.  
