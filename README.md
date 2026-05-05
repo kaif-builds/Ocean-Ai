@@ -122,11 +122,9 @@ License to be decided.
 
 This repository represents an **ongoing effort**, not a finished product. Expect breaking changes, incomplete modules, and experimentation as development continues.
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1jVmaMpaAQKNl34vV-UXdt8YO8wlVEQui
 
 ## Run Locally
 
